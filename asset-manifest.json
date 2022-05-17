@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/projectasthra/static/css/main.0e7bad35.css",
+    "main.js": "/projectasthra/static/js/main.54e9c884.js",
+    "static/media/emergebg.jpg": "/projectasthra/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/projectasthra/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/projectasthra/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/projectasthra/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/projectasthra/index.html",
+    "main.0e7bad35.css.map": "/projectasthra/static/css/main.0e7bad35.css.map",
+    "main.54e9c884.js.map": "/projectasthra/static/js/main.54e9c884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7bad35.css",
+    "static/js/main.54e9c884.js"
+  ]
+}
